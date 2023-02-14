@@ -1,6 +1,7 @@
 <div align="center">
-### 안녕하세요.
-### 프론트엔드 개발자 장영인 입니다. :smiley:
+  
+#### 안녕하세요.
+#### 프론트엔드 개발자 장영인 입니다. :smiley:
 
 ### :white_check_mark: Tech Stack :white_check_mark:
 
