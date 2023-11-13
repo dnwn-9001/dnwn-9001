@@ -2,9 +2,6 @@
   
 #### 안녕하세요.
 #### 프론트엔드 개발자 장영인 입니다. :smiley:
-#### 프론트엔드 업무를 하며 실무에서 가장 많이 사용한 기술은
-#### Vue3, Pinia, javascript, Tailwind Css 이며
-#### 업무 외 공부를 통해 React, 알고리즘 등을 익히고 있습니다.
 
 ### :white_check_mark: Tech Stack :white_check_mark:
 
